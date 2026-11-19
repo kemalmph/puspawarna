@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2 2 60 54" width="600" height="540">
+<title>PT. Puspawarna Mara Kreasi</title>
+<path d="M32 4 L60 16 V42 L32 54 L4 42 V16 Z" fill="#C9A227" fill-opacity="0.1" stroke="#0B3D91" stroke-width="2" stroke-linejoin="round"/>
+<path d="M32 4 V30 L60 16" fill="#C9A227" fill-opacity="0.35" stroke="#0B3D91" stroke-width="2" stroke-linejoin="round"/>
+<path d="M32 30 L4 16 M32 30 V54" stroke="#0B3D91" stroke-width="2" stroke-linejoin="round" fill="none"/>
+</svg>
